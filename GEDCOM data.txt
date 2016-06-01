@@ -1,0 +1,1443 @@
+Github repository - Sid's_repository
+
+%run "C:\sem 1 docs\agile\my agile\week 2\project02 updated.py"
+Printing each line of gedcom file followed by level no and tag line
+line is:- 0 HEAD
+
+Level number is 0
+Tag is:- HEAD 
+
+line is:- 1 SOUR Family Echo
+
+Level number is 1
+invalid tag 
+
+line is:- 2 WWW http://www.familyecho.com/
+
+Level number is 2
+invalid tag 
+
+line is:- 1 FILE My Family
+
+Level number is 1
+invalid tag 
+
+line is:- 1 DATE 18 MAY 2016
+
+Level number is 1
+Tag is:- DATE 
+
+line is:- 1 DEST ANSTFILE
+
+Level number is 1
+invalid tag 
+
+line is:- 1 GEDC
+
+Level number is 1
+invalid tag 
+
+line is:- 2 VERS 5.5.1
+
+Level number is 2
+invalid tag 
+
+line is:- 2 FORM LINEAGE-LINKED
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SUBM @I1@
+
+Level number is 1
+invalid tag 
+
+line is:- 2 NAME Nico Rosberg
+
+Level number is 2
+Tag is:- NAME 
+
+line is:- 1 SUBN
+
+Level number is 1
+invalid tag 
+
+line is:- 1 CHAR UTF-8
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @I1@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Nico /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Nico
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 21 MAR 1989
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F1@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I2@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Tom /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Tom
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 15 MAR 1958
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F1@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F2@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I3@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Laisly /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Laisly
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 15 SEP 1958
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F1@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F3@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I4@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME MIlo /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN MIlo
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 23 OCT 1930
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F3@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I5@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Rosy /Huleknberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Rosy
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Huleknberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 15 SEP 1928
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F3@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I6@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Roger /Rsoberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Roger
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rsoberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rsoberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 23 JAN 1928
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F2@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I7@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Rose /Campbell/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Rose
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Campbell
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 15 NOV 1925
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F2@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I8@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Sandra /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Sandra
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 29 APR 1987
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F1@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I9@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Dev /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Dev
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 20 JUL 1962
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F4@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F3@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I10@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Nelson /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Nelson
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 10 MAY 1960
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F5@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F3@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I11@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Sonders /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Sonders
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 13 FEB 1955
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F3@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I12@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Wendy /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Wendy
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 10 MAR 1956
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 DEAT Y
+
+Level number is 1
+Tag is:- DEAT 
+
+line is:- 2 DATE 3 MAR 2010
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F6@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F2@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I13@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Hector /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Hector
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 14 NOV 1958
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F7@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMC @F2@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I14@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Andy /Rosberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Andy
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 4 AUG 1985
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F7@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I15@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Hilton /Nalawde/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Hilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Nalawde
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Rosberg
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 24 AUG 1956
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F7@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I16@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Rony /Hamilton/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Rony
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 15 FEB 1955
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F6@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 1 FAMS @F8@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I17@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Victor /Hamilton/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Victor
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 19 MAY 1987
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F6@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I18@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Lynda /Hamilton/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Lynda
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 30 APR 1990
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F8@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I19@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Sammy /Hamilton/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Sammy
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 8 SEP 2014
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F8@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I20@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Betty /Hamilton/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Betty
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Hamilton
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 18 JAN 2012
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F8@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I21@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Mini /Button/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Mini
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Button
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 14 DEC 1960
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F4@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I22@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Andy /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Andy
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX M
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 1 AUG 1998
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F4@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @I23@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Molly /Hulkenberg/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Molly
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Hulkenberg
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 7 SEP 1963
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 DEAT Y
+
+Level number is 1
+Tag is:- DEAT 
+
+line is:- 2 DATE 9 MAR 2012
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMS @F5@
+
+Level number is 1
+Tag is:- FAMS 
+
+line is:- 0 @I24@ INDI
+
+Level number is 0
+The tag name is :- INDI 
+
+line is:- 1 NAME Jessie /Vettle/
+
+Level number is 1
+Tag is:- NAME 
+
+line is:- 2 GIVN Jessie
+
+Level number is 2
+invalid tag 
+
+line is:- 2 SURN Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 2 _MARNM Vettle
+
+Level number is 2
+invalid tag 
+
+line is:- 1 SEX F
+
+Level number is 1
+Tag is:- SEX 
+
+line is:- 1 BIRT
+
+Level number is 1
+Tag is:- BIRT 
+
+line is:- 2 DATE 1 MAY 1990
+
+Level number is 2
+Tag is:- DATE 
+
+line is:- 1 FAMC @F5@
+
+Level number is 1
+Tag is:- FAMC 
+
+line is:- 0 @F1@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I2@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I3@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I1@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I8@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F2@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I6@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I7@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I2@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I12@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I13@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F3@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I4@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I5@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I3@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I9@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I10@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I11@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F4@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I9@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I21@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I22@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F5@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I10@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I23@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I24@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F6@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I16@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I12@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I17@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT N
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F7@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I13@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I15@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I14@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT N
+
+Level number is 1
+invalid tag 
+
+line is:- 0 @F8@ FAM
+
+Level number is 0
+invalid tag 
+
+line is:- 1 HUSB @I16@
+
+Level number is 1
+Tag is:- HUSB 
+
+line is:- 1 WIFE @I18@
+
+Level number is 1
+Tag is:- WIFE 
+
+line is:- 1 CHIL @I19@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 CHIL @I20@
+
+Level number is 1
+Tag is:- CHIL 
+
+line is:- 1 _CURRENT Y
+
+Level number is 1
+invalid tag 
+
+line is:- 0 TRLR
+
+Level number is 0
+Tag is:- TRLR 
