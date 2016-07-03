@@ -1,0 +1,77 @@
+The current date is:- 2016-07-03 04:12:21.246000
+
+
+Extracting records from individual dictionary that has birth and death associated with individual
+
+
+current year Birth Date 1925-11-15 00:00:00
+current year Death Date 2009-08-26 00:00:00
+Birth is occured before the death of Rose /Campbell/
+
+
+current year Birth Date 1928-09-15 00:00:00
+current year Death Date 2010-03-10 00:00:00
+Birth is occured before the death of Rosy /Huleknberg/
+
+
+current year Birth Date 1963-09-07 00:00:00
+current year Death Date 2012-03-09 00:00:00
+Birth is occured before the death of Molly /Hulkenberg/
+
+
+current year Birth Date 1998-08-01 00:00:00
+current year Death Date 1995-06-01 00:00:00
+Birth is occured after the death of Andy /Vettle/
+
+
+current year Birth Date 1956-03-10 00:00:00
+current year Death Date 2010-03-03 00:00:00
+Birth is occured before the death of Wendy /Rosberg/
+
+
+current year Birth Date 1989-06-22 00:00:00
+current year Death Date 1988-01-03 00:00:00
+Birth is occured after the death of Nico /Rosberg/
+
+
+Birth happened before marraiage of Roger /Rsoberg/
+Birth happened before marraiage of Rose /Campbell/
+
+
+Birth happened before marraiage of Milo /Vettle/
+Birth happened before marraiage of Rosy /Huleknberg/
+
+
+Birth happened before marraiage of Hector /Rosberg/
+Birth happened before marraiage of Hilton /Nelson/
+
+
+marraige happened beore Birth of Tom /Rosberg/
+Birth happened before marraiage of Laisly /Vettle/
+
+
+Birth happened before marraiage of Nelson /Vettle/
+Birth happened before marraiage of Molly /Hulkenberg/
+
+
+Birth happened before marraiage of Dev /Vettle/
+Birth happened before marraiage of Mini /Button/
+
+
+Birth happened before marraiage of Rony /Hamilton/
+Birth happened before marraiage of Lynda /Hamilton/
+
+
+collecting all the family wedding date and divorce date
+Couple is, Husband:- Hector /Rosberg/ Wife:- Hilton /Nelson/
+The Wedding date is before Divorce date
+
+
+Total number of names:- 24
+Number of duplicate names:- 1
+Name Nico is duplicate
+
+
+Total number of Birthdates:- 24
+Number of duplicate names:- 1
+Bithdate 22 JUN 1989 is duplicate
