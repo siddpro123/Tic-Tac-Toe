@@ -1,0 +1,57 @@
+Please enter file path only
+
+Enter the file name:C:\Users\shree\Canopy\My-Family-13-Jul-2016-527 .ged
+
+
+===================================== INDIVIDUAL INFORMATION ===================================================
+              BIRT         DEAT  FAMC  FAMS                NAME SEX
+@I10@  10 MAY 1960            0  @F3@  @F5@     Nelson /Vettle/   M
+@I11@  13 FEB 1955            0  @F3@     0    Sonders /Vettle/   M
+@I12@  10 MAR 1956   3 MAR 2010  @F2@  @F6@     Wendy /Rosberg/   F
+@I13@  14 NOV 1958            0  @F2@  @F7@    Hector /Rosberg/   M
+@I14@   4 AUG 1985            0  @F7@     0    Andria /Rosberg/   M
+@I15@  24 AUG 1956            0     0  @F7@     Hilton /Nelson/   F
+@I16@  15 FEB 1955            0     0  @F8@     Rony /Hamilton/   M
+@I17@  19 MAY 1987            0  @F6@     0   Victor /Hamilton/   M
+@I18@  30 APR 1990            0     0  @F8@    Lynda /Hamilton/   F
+@I19@   8 SEP 2014            0  @F8@     0    Sammy /Hamilton/   M
+@I1@    8 JUL 2016            0  @F1@     0      Nico /Rosberg/   M
+@I20@  18 JAN 2012            0  @F8@     0    Betty /Hamilton/   F
+@I21@  14 DEC 1960            0     0  @F4@       Mini /Button/   F
+@I22@   1 AUG 1998   1 JUN 1995  @F4@     0       Andy /Vettle/   M
+@I23@   7 SEP 1963   9 MAR 2012     0  @F5@  Molly /Hulkenberg/   F
+@I24@   1 MAY 1990            0  @F5@     0     Jessie /Vettle/   F
+@I2@   15 JUN 2018            0  @F2@  @F1@       Tom /Rosberg/   M
+@I3@   15 SEP 1958            0  @F3@  @F1@     Laisly /Vettle/   M
+@I4@   23 OCT 1930            0     0  @F3@       Milo /Vettle/   M
+@I5@   15 SEP 1859  10 MAR 2010     0  @F3@   Rosy /Huleknberg/   F
+@I6@   23 JAN 1928   1 JAN 1930     0  @F2@     Roger /Rsoberg/   M
+@I7@   15 NOV 1925  11 JUN 1930     0  @F2@     Rose /Campbell/   F
+@I8@   22 JUN 1989            0  @F1@     0      Nico /Rosberg/   F
+@I9@   20 JUL 1962            0  @F3@  @F4@        Dev /Vettle/   M
+
+
+===================================== FAMILY INFORMATION ========================================================
+                            CHIL          DIV   HUSB         MARR   WIFE
+@F1@                [@I1@, @I8@]            0   @I3@  14 JUL 2017   @I2@
+@F2@        [@I2@, @I12@, @I13@]            0   @I6@  11 JUN 1938   @I7@
+@F3@  [@I3@, @I9@, @I10@, @I11@]            0   @I4@  15 JUN 1945   @I5@
+@F4@                     [@I22@]            0   @I9@   5 APR 1995  @I21@
+@F5@                     [@I24@]            0  @I10@  26 FEB 1987  @I23@
+@F6@                     [@I17@]            0  @I16@            0  @I12@
+@F7@                     [@I14@]  12 JUL 2010  @I13@  16 SEP 1980  @I15@
+@F8@              [@I19@, @I20@]            0  @I16@  19 JUN 2011  @I18@
+
+
+(US35) - ID:- @I1@ ,Name:- Nico /Rosberg/ is born within last 30 days and has birthdate :- 2016-07-08 00:00:00 
+
+Family ID:-' @F2@ Roger /Rsoberg/ (Husband) and Rose /Campbell/ (Wife) married on 1938-06-11 00:00:00
+Error(US05) - Husband Roger /Rsoberg/ died before Marraiage 
+
+Family ID:-' @F2@ Roger /Rsoberg/ (Husband) and Rose /Campbell/ (Wife) married on 1938-06-11 00:00:00
+Error(US05) - Wife Rose /Campbell/ died before Marraiage 
+
+checking 'WIFE' tag and corresponding sex should be Female/'F'
+Error(US21) - ID:-  @I3@ ,Name:- Tom /Rosberg/ has sex ' M ' and hence should play a role of Husband 
+
+Family ID:-' @F1@ Laisly /Vettle/ (Husband) and Tom /Rosberg/ (Wife) married on 2017-07-14 00:00:00 ,Their aniversary is within 30 days 
