@@ -1,0 +1,22 @@
+if __name__ == '__main__':
+    n = int(raw_input())
+    student_marks = {}
+    sum = 0
+    i = 0
+    average = 0
+    for _ in range(n):
+        line = raw_input().split()
+        name, scores = line[0], line[1:]
+        scores = map(int, scores)
+        student_marks[name] = scores
+    query_name = raw_input()
+    for key, value in student_marks.iteritems():
+        if (query_name ==key):
+            value = value
+            for d in value:
+                sum = sum + d
+                i = i+1            
+            average = float(sum)/i
+            print "%.2f" % round(average,2)
+            
+           getting average of the persons 
