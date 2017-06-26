@@ -1,5 +1,0 @@
-// this program shows an alternet method to print all the number in certain range in a series fashion without new line or white space.
-for i in range(1, n+1):
-        print(i, end='')
-        
-        
